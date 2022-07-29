@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kored28
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects concerning frontend development
+- 🌱 I’m know react, html, css, javascript.
+- 💞️ I’m looking to collaborate on long term projects 
 - 📫 How to reach me on my Gmail account ogbidionose@gmail.com
 
 <!---
