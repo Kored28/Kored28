@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kored28
+- 👋 Hi, I’m Onose Ogbidi
 - 👀 I’m interested in web development
 - 🌱 I’m know react, html, css, javascript, node js and express.
 - 💞️ I’m looking to collaborate on open source projects 
