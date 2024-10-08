@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onose Ogbidi
-- 👀 I’m interested in web development
-- 🌱 I’m know react, html, css, javascript, node js and express.
+- 👀 I’m in love with web development
+- 🌱 I know react, html, css, javascript, node js, express, Next js.
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me on my Gmail account ogbidionose@gmail.com
 
